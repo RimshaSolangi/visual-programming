@@ -1,0 +1,10 @@
+E:\New folder (4)\DataGridView\bin\Debug\DataGridView.exe.config
+E:\New folder (4)\DataGridView\bin\Debug\DataGridView.exe
+E:\New folder (4)\DataGridView\bin\Debug\DataGridView.pdb
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.Form1.resources
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.exe
+E:\New folder (4)\DataGridView\obj\Debug\DataGridView.pdb
