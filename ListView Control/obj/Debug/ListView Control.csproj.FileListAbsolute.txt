@@ -1,0 +1,10 @@
+E:\New folder (4)\ListView Control\bin\Debug\ListView Control.exe.config
+E:\New folder (4)\ListView Control\bin\Debug\ListView Control.exe
+E:\New folder (4)\ListView Control\bin\Debug\ListView Control.pdb
+E:\New folder (4)\ListView Control\obj\Debug\ListView Control.csproj.AssemblyReference.cache
+E:\New folder (4)\ListView Control\obj\Debug\ListView_Control.Form1.resources
+E:\New folder (4)\ListView Control\obj\Debug\ListView_Control.Properties.Resources.resources
+E:\New folder (4)\ListView Control\obj\Debug\ListView Control.csproj.GenerateResource.cache
+E:\New folder (4)\ListView Control\obj\Debug\ListView Control.csproj.CoreCompileInputs.cache
+E:\New folder (4)\ListView Control\obj\Debug\ListView Control.exe
+E:\New folder (4)\ListView Control\obj\Debug\ListView Control.pdb
