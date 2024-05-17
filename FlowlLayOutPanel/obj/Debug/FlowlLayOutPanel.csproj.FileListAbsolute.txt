@@ -1,0 +1,11 @@
+E:\New folder (4)\FlowlLayOutPanel\bin\Debug\FlowlLayOutPanel.exe.config
+E:\New folder (4)\FlowlLayOutPanel\bin\Debug\FlowlLayOutPanel.exe
+E:\New folder (4)\FlowlLayOutPanel\bin\Debug\FlowlLayOutPanel.pdb
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.csproj.AssemblyReference.cache
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.Form1.resources
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.Properties.Resources.resources
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.csproj.GenerateResource.cache
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.csproj.CoreCompileInputs.cache
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.exe
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.pdb
+E:\New folder (4)\FlowlLayOutPanel\obj\Debug\FlowlLayOutPanel.Form2.resources
