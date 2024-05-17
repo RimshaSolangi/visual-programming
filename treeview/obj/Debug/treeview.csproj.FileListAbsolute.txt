@@ -1,0 +1,10 @@
+E:\New folder (4)\treeview\bin\Debug\treeview.exe.config
+E:\New folder (4)\treeview\bin\Debug\treeview.exe
+E:\New folder (4)\treeview\bin\Debug\treeview.pdb
+E:\New folder (4)\treeview\obj\Debug\treeview.csproj.AssemblyReference.cache
+E:\New folder (4)\treeview\obj\Debug\treeview.Form1.resources
+E:\New folder (4)\treeview\obj\Debug\treeview.Properties.Resources.resources
+E:\New folder (4)\treeview\obj\Debug\treeview.csproj.GenerateResource.cache
+E:\New folder (4)\treeview\obj\Debug\treeview.csproj.CoreCompileInputs.cache
+E:\New folder (4)\treeview\obj\Debug\treeview.exe
+E:\New folder (4)\treeview\obj\Debug\treeview.pdb
