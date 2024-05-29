@@ -1,0 +1,10 @@
+C:\Users\tech zone\Desktop\Project\Database Conection\bin\Debug\Database Conection.exe.config
+C:\Users\tech zone\Desktop\Project\Database Conection\bin\Debug\Database Conection.exe
+C:\Users\tech zone\Desktop\Project\Database Conection\bin\Debug\Database Conection.pdb
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database Conection.csproj.AssemblyReference.cache
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database_Conection.Form1.resources
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database_Conection.Properties.Resources.resources
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database Conection.csproj.GenerateResource.cache
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database Conection.csproj.CoreCompileInputs.cache
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database Conection.exe
+C:\Users\tech zone\Desktop\Project\Database Conection\obj\Debug\Database Conection.pdb
